@@ -1,0 +1,47 @@
+body{
+  font-family: Poppins;
+}
+
+.click{
+  margin-left: 150px;
+}
+
+h1{
+  margin-bottom: 0%;
+  margin-left: 11px;
+}
+
+h5 {
+  margin-top: 0%;
+  margin-left: 11px;
+}
+
+.form-group{
+  font-family: poppins;
+  margin: 11px;
+  font-size: 14px;
+}
+
+.email{
+  width: 29%;
+}
+
+.password{
+  width: 29%;
+}
+
+.username{
+  width: 29%;
+}
+
+.submit{
+  font-family: poppins;
+  margin-top: 11px;
+  margin-left: 150px;
+  font-size: 18px;
+}
+
+.login{
+  width: 30%;
+  font-size: 15px;
+}
