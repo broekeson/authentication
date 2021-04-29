@@ -16,7 +16,7 @@
     <input type="email"  class="email form-group" name="email" id="email" placeholder="Enter Your Email Address"  required><br>
     <input type="text" name="uname" id="uname"  class="username form-group"  placeholder="Enter Your Preferred Username"required><br>
     <input type="password" class="password form-group"  name="pword" id="password" placeholder="New Password" required><br>
-    <a href="./login.php"  name="new" class="new form-group"  id="new">Existing User? Sign In</a><br>
+    <a href="./index.php"  name="new" class="new form-group"  id="new">Existing User? Sign In</a><br>
     <input type="submit" value="Sign Up"  class="submit"  name="submit">
   </form>
 </body>

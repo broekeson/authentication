@@ -13,7 +13,7 @@
     <input type="text" name="uname" id="uname"  class="form-group username" placeholder="Username"  required><br>
     <input type="password" name="npword" id="password" class="form-group password" placeholder="New Password"><br>
     <input type="submit" value="Submit" class="form-group login"  name="submit"><br>
-    <a href="./login.php"  name="new" class="new form-group"  id="new">Go Back</a>
+    <a href="./index.php"  name="new" class="new form-group"  id="new">Go Back</a>
   </form>
 </body>
 </html>
